@@ -5,3 +5,4 @@ def main():
     //dostuff
 
     print('Hello World!')
+    print('Sup?')
