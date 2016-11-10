@@ -3,3 +3,5 @@ if __name__ == '__main__':
 
 def main():
     //dostuff
+
+    print('Hello World!')
