@@ -1,8 +1,10 @@
-if __name__ == '__main__':
-    main()
+
 
 def main():
-    //dostuff
-
-    print('Hello World!')
-    print('Sup?')
+    i = 0
+    while i < 5:
+        print(i)
+        i += 1
+    
+if __name__ == '__main__':
+    main()
